@@ -6,6 +6,6 @@ def cadastrar_filmes(nome, clascificacao, categoria1, categoria2):
         "categoria" : [categoria1, categoria2]
     }
     lista.append(dicionario)
-    return dicionario
+    return lista
 
 print(cadastrar_filmes("de volta pro futuro", 16, "acao", "aventura"))
