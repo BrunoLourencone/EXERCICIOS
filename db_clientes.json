@@ -1,0 +1,14 @@
+[
+    {
+        "nome_cliente": " bruno",
+        "cpf_cliente": 487511,
+        "rg_cliente": 123123,
+        "data_de_nascimento_cliente": " 123123123",
+        "endereco_cliente": " rua juno",
+        "cidade_cliente": " sano andre",
+        "estado_cliente": " avenida correa",
+        "telefone_cliente": 11292834,
+        "celular_cliente": 229292929,
+        "email_cliente": "brunp.com"
+    }
+]
