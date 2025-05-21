@@ -11,7 +11,11 @@ def carregar_dados():
 
 funcionarios = carregar_dados()
 for funcionario in funcionarios:
-    print("_"*40)
-    print(f"nome do funcionario: {funcionario["nome"]}")
-    print(f"o salario dele é: {funcionario["salario"]}")
+    if funcionario["salario"] > 5500:
+        print("_"*40)
+        print(f"nome do funcionario: {funcionario["nome"]}")
+        print(f"o salario dele é: {funcionario["salario"]}")
+    else:
+        print("="*50)
+        print(f"o funcionario {funcionario["nome"]} nao recebe mais que 5500")
           
