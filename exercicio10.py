@@ -13,7 +13,7 @@ def cadastrarFilmes():
 
 def ObterCadastroFilme():
     filme = input("nome do filme: ")
-    Classificacao = (input("classificação do filme: "))
+    Classificacao = input("classificação do filme: ")
     data = int(input("lançado em: "))
     tempo = input("duração do filme: ")
     descricao = input("descrição do filme: ")
