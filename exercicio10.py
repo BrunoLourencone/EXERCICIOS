@@ -38,14 +38,17 @@ def cadastrar_filme(dadosFilme):
 
 
 def mostrarDados_filme():
-    for filmes in ObterCadastroFilme():
-        print(f"""
-              nome do filme: {filmes["filme"]}
-              classificacao do filme: {filmes["classificacao"]}
-              data do filme: {filmes["data"]}
-              tempo do filme: {filmes["tempo"]}
-              descricao do filme: {filmes["descricao"]}
-              """)
+    if cadastro:
+        for filmes in ObterCadastroFilme():
+            print(f"""
+                nome do filme: {filmes["filme"]}
+                classificacao do filme: {filmes["classificacao"]}
+                data do filme: {filmes["data"]}
+                tempo do filme: {filmes["tempo"]}
+                descricao do filme: {filmes["descricao"]}
+                """)
+    else:
+        print('nao existe nenhum filme cadastrado.')
 
 
 def inciar_sistema():

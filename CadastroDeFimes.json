@@ -1,0 +1,16 @@
+[
+    {
+        "filme": "guardioes da galaxia",
+        "classificacao": "12",
+        "data": 2024,
+        "tempo": "2h 34m",
+        "descricao": "steve e seus companheiros parter numa aventura pelas galaxias atras das estrelas do universo, passa por diversos caminhos ate encontra-las"
+    },
+    {
+        "filme": "minecraft",
+        "classificacao": "livre",
+        "data": 2025,
+        "tempo": "1h 23m",
+        "descricao": "steve viaja em uma aventura com sua turma, indo atras de suas conquista de sobrevivencia."
+    }
+]
