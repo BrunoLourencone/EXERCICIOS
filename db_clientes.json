@@ -10,5 +10,29 @@
         "telefone_cliente": 11292834,
         "celular_cliente": 229292929,
         "email_cliente": "brunp.com"
+    },
+    {
+        "nome_cliente": "assa",
+        "cpf_cliente": 1312,
+        "rg_cliente": 12321,
+        "data_de_nascimento_cliente": " 123123",
+        "endereco_cliente": " sas",
+        "cidade_cliente": " ass",
+        "estado_cliente": " asdasd",
+        "telefone_cliente": 12312,
+        "celular_cliente": 132123,
+        "email_cliente": "asdasd"
+    },
+    {
+        "nome_cliente": "sdas",
+        "cpf_cliente": 12312,
+        "rg_cliente": 12321,
+        "data_de_nascimento_cliente": "12312",
+        "endereco_cliente": "vrfrf",
+        "cidade_cliente": "dfvsfv",
+        "estado_cliente": "dasdas",
+        "telefone_cliente": 213123,
+        "celular_cliente": 12321,
+        "email_cliente": "efadf"
     }
 ]
