@@ -1,0 +1,11 @@
+[
+    {
+        "id_roupa": 1,
+        "nome_roupa": "nike",
+        "descricao_roupa": "100% algodao do paraguai",
+        "tamanho": "EG",
+        "cor": "azul",
+        "valor": 89.9,
+        "quantidade": 7
+    }
+]
